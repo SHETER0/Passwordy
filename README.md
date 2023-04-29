@@ -8,11 +8,11 @@ Our app is designed to provide maximum security and ease of use, making it the p
 # Features
 
 Passwordy offers a wide range of features that make it easy to manage your passwords and accounts, including:
-Secure encryption: All your passwords and sensitive data are encrypted using AES-256 encryption, which is considered to be one of the most secure encryption standards available.
-Offline storage: Your encrypted data is stored locally on your PC, so you don't have to worry about hackers accessing it online.
-Easy-to-use interface: Our app is designed to be user-friendly and intuitive, so you can easily add, edit, and delete your passwords and accounts.
-Auto-lock: You can set the app to lock automatically after a certain period of inactivity, so your data remains safe even if you forget to lock it manually.
-Backup and restore: You can create a backup of your encrypted file and restore it anytime you need to.
+* Secure encryption: All your passwords and sensitive data are encrypted using AES-256 encryption, which is considered to be one of the most secure encryption standards available.
+* Offline storage: Your encrypted data is stored locally on your PC, so you don't have to worry about hackers accessing it online.
+* Easy-to-use interface: Our app is designed to be user-friendly and intuitive, so you can easily add, edit, and delete your passwords and accounts.
+* Auto-lock: You can set the app to lock automatically after a certain period of inactivity, so your data remains safe even if you forget to lock it manually.
+* Backup and restore: You can create a backup of your encrypted file and restore it anytime you need to.
 # 
 ![Image](https://cdn.discordapp.com/attachments/1095762531152298096/1101902834783486064/Screenshot_2023-04-29_185222.png)
 
