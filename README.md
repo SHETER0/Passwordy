@@ -25,7 +25,6 @@ Passwordy offers several benefits that make it the perfect choice for anyone who
 * User-friendly interface: Our app is designed to be easy to use, so you don't have to be a tech expert to manage your passwords.
 * Affordable: Our app is affordable and offers excellent value for money compared to other password manager apps.
 # Conclusion
-
 Thank you for considering Passwordy as your offline password manager.
 With our app, you can enjoy maximum security, easy access, and user-friendly features that make managing your passwords a breeze.
- [Download](https://github.com/SHETER0/Passwordy/archive/refs/heads/main.zip). Passwordy today and start protecting your digital identity!
+# [Download Passwordy](https://github.com/SHETER0/Passwordy/archive/refs/heads/main.zip)
