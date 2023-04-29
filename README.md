@@ -1,4 +1,4 @@
-# Welcome to Passwordy,
+# Welcome to Passwordy
 offline password manager app that helps you keep your accounts safe and secure.
 With our app, you can store your passwords and sensitive information in an encrypted file on your PC, so you can access them anytime without worrying about online threats.
 Our app is designed to provide maximum security and ease of use, making it the perfect tool for anyone who wants to protect their digital identity.
