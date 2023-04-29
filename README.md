@@ -3,7 +3,7 @@ offline password manager app that helps you keep your accounts safe and secure.
 With our app, you can store your passwords and sensitive information in an encrypted file on your PC, so you can access them anytime without worrying about online threats.
 Our app is designed to provide maximum security and ease of use, making it the perfect tool for anyone who wants to protect their digital identity.
 # 
-![Image](https://cdn.discordapp.com/attachments/1095762531152298096/1101902652499034182/Screenshot_2023-04-29_185337.png)
+![Image](https://cdn.discordapp.com/attachments/1040957778195402755/1101905071773585529/Screenshot_2023-04-29_185337.png)
 
 # Features
 
@@ -14,7 +14,7 @@ Passwordy offers a wide range of features that make it easy to manage your passw
 * Auto-lock: You can set the app to lock automatically after a certain period of inactivity, so your data remains safe even if you forget to lock it manually.
 * Backup and restore: You can create a backup of your encrypted file and restore it anytime you need to.
 # 
-![Image](https://cdn.discordapp.com/attachments/1095762531152298096/1101902834783486064/Screenshot_2023-04-29_185222.png)
+![Image](https://cdn.discordapp.com/attachments/1040957778195402755/1101905072071385128/Screenshot_2023-04-29_191656.png)
 
 # How it works
 Passwordy works by creating an encrypted file on your PC, which serves as your password vault.
