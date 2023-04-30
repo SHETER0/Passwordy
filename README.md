@@ -33,4 +33,4 @@ Passwordy offers several benefits that make it the perfect choice for anyone who
 # Conclusion
 Thank you for considering Passwordy as your offline password manager.
 With our app, you can enjoy maximum security, easy access, and user-friendly features that make managing your passwords a breeze.
-# [Download Passwordy](https://github.com/SHETER0/Passwordy/archive/refs/heads/main.zip)
+# [Download Passwordy](https://github.com/SHETER0/Passwordy/releases/download/Passwordy/Passwordy.zip)
